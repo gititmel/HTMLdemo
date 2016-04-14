@@ -1,0 +1,27 @@
+body {
+	background-color: yellow;
+}
+
+#wrap{ 
+	width			: 960px;
+	height			: 100vh;
+	border-style	: solid;
+	border-color	: #FF0066;
+	border-width	: 20px;
+	background-color: #3399FF;
+	position: fixed;
+
+}
+
+.person{
+	background-color: green;
+}
+
+.place{
+	background-color: red;
+}
+
+.thing{
+	background-color: white;
+}
+/* comment */
